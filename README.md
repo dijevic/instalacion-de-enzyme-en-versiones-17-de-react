@@ -1,3 +1,3 @@
-# notas:
+# notes:
+<p>Readme to remenber the intructios to setup enzyme with react V17 </p>
 
-este es un pequeño redme para recordar como implementar enzyme en react en su version 17
